@@ -1,9 +1,10 @@
 module.exports = {
+  pathPrefix: '/post',
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `티클 포스트`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `홍석원`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
