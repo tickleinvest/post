@@ -1,29 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[티클 포스트]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 13 Jun 2020 11:20:09 GMT</lastBuildDate><item><title><![CDATA[우리가 매번 저축에 실패하는 이유]]></title><description><![CDATA[…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/우리가 매번 저축에 실패하는 이유/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/우리가 매번 저축에 실패하는 이유/</guid><pubDate>Sat, 13 Jun 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[티클 포스트]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Jun 2020 05:01:52 GMT</lastBuildDate><item><title><![CDATA[우리가 매번 저축에 실패하는 이유]]></title><description><![CDATA[…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/우리가 매번 저축에 실패하는 이유/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/우리가 매번 저축에 실패하는 이유/</guid><pubDate>Sat, 13 Jun 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/post/static/9d73533656cfcdf062d9632b781d7dde/2a440/pig.png&quot;
+    href=&quot;/post/static/49d351a8d59755e40ac608e2aeedb4fd/6af66/piggyThumb.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAADSUlEQVQ4yzWTWW8bZRiF56/wD5C4Qr3rDXBRhCggroqEhLqIAA3ihq0iNCKlISoQFSdtEytLSxLjxImdOB6P7fE2M57xNuMldpzEqZPSQDeUH/Dw2oiLI32a0Tzvec/5RrELeay8jpnR0LUwNa+C53mYpjlQoWBhOw5aLILrlmg0agM1m3V2dhq0d1u41RLHRz2ev3iBYuZSZJNRtGiQzdU5AZap1etkMxkSiQSpVArLKpBQN/EEWKt71EX/Q1utJpWKQ6/3kKfPnqGk4hvEwktsLN9h7YEPT6a5rkc6nUbTtAHUMMz/HFaL4r46UK3mDsB9aKlU4OFhl7+fPEHZWltkdfE2y/4JAvM/41ZsypUKaV0fQPvK5w3U6Drlokm1UhTJ0GpZBlcG4KJj0j3Y5+TkRIArU2wH76JvzrO9OitAZ+DQMAxZ1cKR/GzbJqlGKIuTfo79zPrre67EU6viFHLs7e3y6NGfKP4fLqGv/kbTjnG0W6IoJanbcapVl06nIx/U0FM6+XQKI6thSHn93C1Dp2BmsK2cPE+yK+X0ekco928NkwvfpenEOKgbZFMq2WxegJ6EXR3AtsIRKgUTr1yQArcwBWwKxBCwmU+T01V2JMtut4sSXbxBMbkssDwNJ4GVS9LZO5CwW7KyTSKuoUbCHEuL/8i1cMRZ0UxTtDI44tARh5nkNnUpam9/H0X7fRwvF+KwnsVQA7KaJi+6NASYzxlsh8PE1oLs7bY5PT0VYBpTj2GlVQoZFTsbJ6uGcKWwdrOBsjp5lXLiPsedEvHgNAlp03Vr2KZFMhxiwz9NaMZHMZPkr8eP2clEqCeCtPR1Gqk16sk1GnLeyUVpWQmU9V+HyC+NUdmawQ5MkF3xseKfZdk3yR+3RgmMX8P/3TB6aIleU/4U9QENLYgdWaCmrogClGMBSlqIqr6FYiyMoftHSc1eJz33I/r8TaZGv+Hi++9w/uwZht57k/Hhi8TnJzEDPq59dI7Q9Ah3vr9MfOEntKXbtK0YbTPGYSWDsjj2OfdGPsP37RC/fHmFG59e4KsPz/PB62d47eWX+OTts9z7+jLZmetMfXGBK2+8wsilc3z87qtMXH2L6NxNTnsNnnbKPN+v8i8bpkHUNue7BQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 58.10810810810811%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAACD0lEQVQoz2VTTWsTURS9WFH8WIi6UFBBhSIZsZkxpaBQEDdu/BPu/AOCDEmT0CZtk/QbbWuJbdqfoKBL9+51EZqGtDYwtYpN0sZk3vG+NzOvmbo4vPs+7nnn3PseIUfAOLmYICHGOZ4gyDFAMO9d71kTCpMq3mM8I7npb4SS5SFxknzy/wt0fk6NDQrIeFMrdLOEg9QxcYBmmtAeCyuUeT6pK89QQKaI5KE84WfiFL6P3MRO/Bwcjp1EH3btPpSTN1C1z59Ur0nlSCH5LLvBysr2JWAthsbiA+zPRfB7wcCveQPYGMR25hZ+vA4r77VPesIbf5KEzeR1dIoWsBplUhMoWRrivVyzsJvvx459Gp0MoTVK6GaPSbXCLtdmM34ZgpVhLaqSPZgKro6ZdCMGp3AXX14Qvr4kRRwmZKt7CYIzcw9Yt+AWvWSpUBTvK6jYv0Sqly6+vbqA9qj/IgLLQbdq9lm0V7zDnjUTjbcGtqYeYWv6MQ7eGGHS9Ri201fRzfhvsacpalKzz4gjRWgq1PN3UC4Mw/2cRudTCrX5p6jnbqP9bsCrbymG6sgV0RnTZK5uClsW+2y5Xujn+jxUdrsrBirTwzj6mMDhhziqs0/wdznilaJkorkUhXTl2xXyuTHXIfltF8iSqNgX0Voe8FSyvSZbrk4Nse0hth/RnRarFiqpa2il1bcLvp7DeP4PQP5uD2EzEHwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;pig&quot;
-        title=&quot;pig&quot;
-        src=&quot;/post/static/9d73533656cfcdf062d9632b781d7dde/fcda8/pig.png&quot;
-        srcset=&quot;/post/static/9d73533656cfcdf062d9632b781d7dde/12f09/pig.png 148w,
-/post/static/9d73533656cfcdf062d9632b781d7dde/e4a3f/pig.png 295w,
-/post/static/9d73533656cfcdf062d9632b781d7dde/fcda8/pig.png 590w,
-/post/static/9d73533656cfcdf062d9632b781d7dde/efc66/pig.png 885w,
-/post/static/9d73533656cfcdf062d9632b781d7dde/c83ae/pig.png 1180w,
-/post/static/9d73533656cfcdf062d9632b781d7dde/2a440/pig.png 6140w&quot;
+        alt=&quot;piggy&quot;
+        title=&quot;piggy&quot;
+        src=&quot;/post/static/49d351a8d59755e40ac608e2aeedb4fd/fcda8/piggyThumb.png&quot;
+        srcset=&quot;/post/static/49d351a8d59755e40ac608e2aeedb4fd/12f09/piggyThumb.png 148w,
+/post/static/49d351a8d59755e40ac608e2aeedb4fd/e4a3f/piggyThumb.png 295w,
+/post/static/49d351a8d59755e40ac608e2aeedb4fd/fcda8/piggyThumb.png 590w,
+/post/static/49d351a8d59755e40ac608e2aeedb4fd/6af66/piggyThumb.png 640w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -38,7 +36,6 @@
 &lt;p&gt;사 놓고 쳐다도 안 볼 옷은 더 이상 사지 말고, 커피 일주일에 5번 마시는 거 3번으로 줄이고. 넷플릭스 정기결제 해놓고 안 본지 꽤 됐다면 해지를 고민해봐요. 소소해 보이지만 돈을 모으는 지름길입니다. &lt;/p&gt;
 &lt;h3&gt;3.돈 모으는 계좌를 분리하세요.&lt;/h3&gt;
 &lt;p&gt;계좌 하나 더 있는 게 별 거 아닌 것 같지만 동기부여에 정말 좋습니다. 내가 아낀 만큼 돈이 모이는 것이 직관적으로 눈에 보여요. 저축용 계좌에 매달 쓰고 남은 돈을 넣어두는 것도 좋고, 소액이라도 정기적으로 저축하는 방법도 있습니다. &lt;/p&gt;
-&lt;h3&gt;4. 이 모든 게 어렵고 귀찮다면?&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;티클&lt;/strong&gt; 앱을 써보세요! 내가 쓰는 카드만 연동해도, 아니면 매주 저축하고 싶은 금액만 설정해도 자동으로 저축이 되니까요.&lt;/p&gt;
-&lt;p&gt;돈 모으기는 장기전입니다. 지금 당장 모이는 금액이 적다고 실망할 필요가 없어요. 돈 버는 걸 멈추는 그 날까지 평생 안고 가야 할 습관이니까요. &lt;/p&gt;
-&lt;p&gt;오늘부터 돈 모으기, 티클과 같이 시작해 보세요.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;돈 모으기는 장기전입니다. 지금 당장 모이는 금액이 적다고 실망할 필요가 없어요. 돈 버는 걸 멈추는 그 날까지 평생 안고 가야 할 습관이니까요.&lt;/p&gt;
+&lt;p&gt;오늘부터 돈 모으기, 티클과 시작해 보세요.&lt;/p&gt;</content:encoded></item></channel></rss>
